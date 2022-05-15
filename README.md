@@ -5,7 +5,7 @@
 
 </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="100px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 
 <p align="left"> 
@@ -29,7 +29,8 @@
 
 <p align="left">
   🎵 Estou ouvindo Agora: ⤵️
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pl6xwv4wkna4n586dnodurtqs&cover_image=true&theme=novatorem&bar_color=00eeff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=pl6xwv4wkna4n586dnodurtqs&redirect=true)
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pl6xwv4wkna4n586dnodurtqs&cover_image=true&theme=novatorem&bar_color=00eeff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=pl6xwv4wkna4n586dnodurtqs&redirect=true)
 </p>
 
 <p align="left">
