@@ -9,7 +9,7 @@
 
 
 <p align="left"> 
-  Sou <strong>Front-end developer</strong>.<br>
+<strong>Front-end developer</strong>.<br>
 </p>
 
 <p align="left">
