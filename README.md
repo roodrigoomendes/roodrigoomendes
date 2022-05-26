@@ -1,12 +1,12 @@
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
+
 <p align="left"> 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=4500&color=7CDEDC&center=true&vCenter=true&lines=+Hi%2C+I'm+Rodrigo+Mendes;+Oi%2C+sou+o+Rodrigo+mendes)](https://git.io/typing-svg)
 
 </p>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
 
 <p align="left"> 
 <strong>Front-end developer</strong>.<br>
