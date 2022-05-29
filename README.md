@@ -41,9 +41,9 @@
 <br/>
 
 <p align="left">
-  🎵 Estou ouvindo Agora: ⤵️
+  🎵 Estou ouvindo Agora: ⤵️ 
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pl6xwv4wkna4n586dnodurtqs&cover_image=true&theme=novatorem&bar_color=00eeff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=pl6xwv4wkna4n586dnodurtqs&redirect=true)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pl6xwv4wkna4n586dnodurtqs&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=pl6xwv4wkna4n586dnodurtqs&redirect=true)
 </p>
 
 <p align="left">
