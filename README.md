@@ -1,25 +1,14 @@
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
-
-<p align="left"> 
+<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=4500&color=7CDEDC&center=true&vCenter=true&lines=+Hi%2C+I'm+Rodrigo+Mendes;+Oi%2C+sou+o+Rodrigo+mendes)](https://git.io/typing-svg)
 
-</p>
+<strong>Front-end developer</strong>.
+<br/>
+  
 
-<p align="left"> 
-<strong>Front-end developer</strong>.<br>
-</p>
+🦄 Technologias: <strong> HTML, CSS, JavaScript e Git </strong>
 
-<p align="left">
-  🦄 Technologias: <strong> HTML, CSS, JavaScript e Git </strong>
-
-</p>
-
-<p align="left">
-  ☕ Ferramentas: <strong>VS Code, Figma, GitHub, NPM e Yarn.</strong>
-</p>
+☕ Ferramentas: <strong>VS Code, Figma, GitHub, NPM e Yarn.</strong>
 
 <br/>
 
@@ -40,17 +29,8 @@
 
 <br/>
 
-<p align="left">
-  🎵 Estou ouvindo Agora: ⤵️ 
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pl6xwv4wkna4n586dnodurtqs&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=pl6xwv4wkna4n586dnodurtqs&redirect=true)
-</p>
-
-<p align="left">
-  
-<p align="left">
-  💌 Me encontre: ⤵️
-</p>
+💌 Me encontre: ⤵️
+<p>
   <a href="mailto:roodrigoomendessilva@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:roodrigoomendessilva@gmail.com"/>
   </a>
@@ -63,3 +43,10 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/roodrigoomendes/"/>
   </a>
 </p>
+
+
+🎵 Estou ouvindo Agora: ⤵️
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pl6xwv4wkna4n586dnodurtqs&cover_image=true&theme=default&bar_color_cover=false&bar_color=09ff00)](https://spotify-github-profile.vercel.app/api/view?uid=pl6xwv4wkna4n586dnodurtqs&redirect=true)
+
+</div>
