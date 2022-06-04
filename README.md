@@ -7,22 +7,26 @@
 
 🦄 Technologias: 
 
+CSS, HTML, Javascript, Tailwind
+
 <div style="display: inline_block">
   <img align="center" alt="roodrigoomendes-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="roodrigoomendes-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="roodrigoomendes-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="roodrigoomendes-GIT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
- 
+  <img align="center" alt="roodrigoomendes-Tailwind" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
 <br/>
 
 ☕ Ferramentas: 
+
+Figma, Vscode, NPM, YARN, GIT
 
 <div style="display: inline_block">
   <img align="center" alt="roodrigoomendes-FIGMA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="roodrigoomendes-VSCODE" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="roodrigoomendes-NPM" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="roodrigoomendes-YARN" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg">
+  <img align="center" alt="roodrigoomendes-GIT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
 </div>
 
 <br/>
