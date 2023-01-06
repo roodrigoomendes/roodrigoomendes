@@ -7,7 +7,7 @@
 
 🦄 Technologias: 
 
-CSS, HTML, Javascript, reactjs, Tailwind
+CSS, HTML, Javascript, reactjs, Tailwind e Styled Componentes
 
 <div style="display: inline_block">
   <img align="center" alt="roodrigoomendes-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
@@ -15,6 +15,7 @@ CSS, HTML, Javascript, reactjs, Tailwind
   <img align="center" alt="roodrigoomendes-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="roodrigoomendes-REACT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="roodrigoomendes-Tailwind" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="roodrigoomendes-Tailwind" height="50" width="60" src="https://styled-components.com/logo.png">
 </div>
 <br/>
 
